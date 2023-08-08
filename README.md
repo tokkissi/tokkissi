@@ -54,8 +54,3 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/>
 <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white"/>
-
-
-<br/>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tokkissi&langs_count=8)](https://github.com/tokkissi/github-readme-stats)　　　　 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tokkissi&show_icons=true&theme=dracula)
