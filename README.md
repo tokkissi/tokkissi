@@ -1,32 +1,22 @@
-<!-- ![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=300&section=header&text=Tokkissi's%20workplace&fontSize=60) -->
-<img src="https://pbs.twimg.com/media/EE6HPX6VUAALM0B?format=png&name=900x900" width="300" height="300">
+<div align="center">
 
-### Hi there 👋 I'm tokkissi 🐰
+# **Hi there 👋 I'm tokkissi 🐰**
+
+</div>
+
+<div align="center">
+  <img src="https://pbs.twimg.com/media/EE6HPX6VUAALM0B?format=png&name=900x900" width="300" height="300">
+<div/>
+
 I'm **Web frontend developer**.  
 I enjoy sport 🧗‍♂️climbing.  
 I am happy to learn every day.  
 I want to work with you with a smile😁    
 <br/>
 <br/>
-
-
-<!--
-**tokkissi/tokkissi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
   
-  
-      
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tokkissi&layout=compact)
+
 ## Connect with me
 
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>
